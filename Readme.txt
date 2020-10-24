@@ -1,4 +1,3 @@
 Du Man Nguyen
 040943488
-Ba Minh Phi
-040919708
+https://github.com/DuManNguyen/C--Department-Project.git
